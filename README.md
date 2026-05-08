@@ -9,19 +9,19 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="./metrics-languages.svg" alt="Languages" />
+  <img src="./image/metrics-languages.svg" alt="Languages" />
 </p>
 
 ### 🏷️ Topics
 
 <p align="center">
-  <img src="./metrics-topics.svg" alt="Topics" />
+  <img src="./image/metrics-topics.svg" alt="Topics" />
 </p>
 
 ### 📂 Active Repositories
 
 <p align="center">
-  <img src="./metrics-followup.svg" alt="Followup" />
+  <img src="./image/metrics-followup.svg" alt="Followup" />
 </p>
 
 ### 🔥 Streak
