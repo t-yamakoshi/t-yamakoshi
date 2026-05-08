@@ -6,6 +6,12 @@
 
 ---
 
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 ### 🔥 Streak
 
 <p align="center">
@@ -16,11 +22,5 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t-yamakoshi&theme=high-contrast&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=t-yamakoshi&theme=matrix&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
