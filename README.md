@@ -12,12 +12,6 @@
   <img src="./image/metrics-languages.svg" alt="Languages" />
 </p>
 
-### 🏷️ Topics
-
-<p align="center">
-  <img src="./image/metrics-topics.svg" alt="Topics" />
-</p>
-
 ### 📂 Active Repositories
 
 <p align="center">

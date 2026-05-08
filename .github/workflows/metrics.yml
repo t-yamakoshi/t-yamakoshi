@@ -15,9 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: t-yamakoshi
           template: classic
           base: ""
@@ -31,23 +32,11 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
 
-      - name: Topics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: t-yamakoshi
-          template: classic
-          base: ""
-          filename: image/metrics-topics.svg
-          config_timezone: Asia/Tokyo
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-
       - name: Followup
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: t-yamakoshi
           template: classic
           base: ""
