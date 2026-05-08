@@ -6,10 +6,22 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Languages
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <img src="./metrics-languages.svg" alt="Languages" />
+</p>
+
+### 🏷️ Topics
+
+<p align="center">
+  <img src="./metrics-topics.svg" alt="Topics" />
+</p>
+
+### 📂 Active Repositories
+
+<p align="center">
+  <img src="./metrics-followup.svg" alt="Followup" />
 </p>
 
 ### 🔥 Streak
