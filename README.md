@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/t-yamakoshi.png" width="140" alt="t-yamakoshi" />
+</p>
+
 <h1 align="center">t-yamakoshi</h1>
 
 <p align="center">
